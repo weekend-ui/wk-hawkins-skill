@@ -18,7 +18,7 @@
 Claude Code 的 skill 放在 `~/.claude/skills/`（專案內則是 `.claude/skills/`）。
 
 ```bash
-git clone https://github.com/<owner>/wk-hawkins-skill.git ~/.claude/skills/wk-hawkins
+git clone https://github.com/weekend-ui/wk-hawkins-skill.git ~/.claude/skills/wk-hawkins
 ```
 
 或者直接把這個資料夾複製過去，確認長這樣：
